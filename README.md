@@ -1,2 +1,2 @@
 # polina
-Commited
+Описание проекта
